@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: quickest in sorted files which is expected due to lowest omega value
+
+sort2 uses: merge sort
+
+How do you know?: quickest in all cases except for already sorted files, in which bubble sort is expected to be quicker
+
+sort3 uses: selection sort
+
+How do you know?: slowest in random files and in sorted files, which is to be expected due to highest omega value
